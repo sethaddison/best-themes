@@ -20,7 +20,7 @@
 10. 🌟🌟🌟🌟🌟 Rate five-stars 😃
 
 
-## Themes Included
+## Themes Included :
 
  1. Best Themes - Dark Phoenix
  2. Best Themes - Dracula Redefined
