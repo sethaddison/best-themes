@@ -82,6 +82,11 @@
                 "path": "./themes/Best Themes - Monokai Drake.json"
             },
             {
+                "label": "Best Themes - Monokai Drake No Italics",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Best Themes - Monokai Drake No Italics.json"
+            },
+            {
                 "label": "Best Themes - Monokai Night Time",
                 "uiTheme": "vs-dark",
                 "path": "./themes/Best Themes - Monokai Night Time.json"
