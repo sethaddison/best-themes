@@ -85,7 +85,7 @@
             "name": "String",
             "scope": "string",
             "settings": {
-                "foreground": "#f6f6f5"
+                "foreground": "#b3d667"
             }
         },
         {
@@ -99,7 +99,7 @@
             "name": "String single quoted JS",
             "scope": "string.quoted.single.js",
             "settings": {
-                "foreground": "#70F49C"
+                "foreground": "#b3d667"
             }
         },
         {
@@ -139,7 +139,7 @@
             "name": "Variable",
             "scope": "variable",
             "settings": {
-                "foreground": "#B7C6DA"
+                "foreground": "#ff6e92"
             }
         },
         {
@@ -189,7 +189,7 @@
             "name": "Tag name",
             "scope": "entity.name.tag",
             "settings": {
-                "foreground": "#fa4c4c"
+                "foreground": "#ff6e92"
             }
         },
         {
@@ -203,7 +203,7 @@
             "name": "Tag Other",
             "scope": "meta.tag.other, entity.name.tag.style, entity.name.tag.script, meta.tag.block.script, source.js.embedded punctuation.definition.tag.html, source.css.embedded punctuation.definition.tag.html",
             "settings": {
-                "foreground": "#E26674"
+                "foreground": "#ff6e92"
             }
         },
         {
@@ -238,7 +238,7 @@
             "name": "JS variable parameter",
             "scope": "variable.parameter.js, constant.other.object.key.js, variable.other.readwrite.js, punctuation.definition.parameters.begin.js, punctuation.definition.parameters.end.js, meta.object-literal.key.js, meta.array.literal.js, meta.brace.round.js, punctuation.definition.block.js, meta.objectliteral.js",
             "settings": {
-                "foreground": "#97a7c8"
+                "foreground": "#ff6e92"
             }
         },
         {
@@ -300,7 +300,7 @@
         {
             "scope": "entity.name.tag.css",
             "settings": {
-                "foreground": "#eab780"
+                "foreground": "#ff6e92"
             }
         },
         {

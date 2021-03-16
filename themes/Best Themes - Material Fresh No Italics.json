@@ -196,7 +196,7 @@
       {
         "settings": {
           "background": "#292D3E",
-          "foreground": "#ffffff"
+          "foreground": "#e9e8e8ee"
         }
       },
       {
@@ -218,7 +218,7 @@
           "string constant.other.placeholder"
         ],
         "settings": {
-          "foreground": "#A6ACCD"
+          "foreground": "#e9e8e8ee"
         }
       },
       {
@@ -672,7 +672,7 @@
           "punctuation.definition.list_item.markdown"
         ],
         "settings": {
-          "foreground": "#A6ACCD"
+          "foreground": "#e9e8e8ee"
         }
       },
       {
@@ -859,7 +859,7 @@
           "markup.table"
         ],
         "settings": {
-          "foreground": "#A6ACCD"
+          "foreground": "#e9e8e8ee"
         }
       }
     ]

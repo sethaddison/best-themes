@@ -2,7 +2,7 @@
     "name": "best-themes-redefined",
     "displayName": "Best Themes Redefined",
     "description": "Redefined versions of all the popular themes 🎇✨❤",
-    "version": "0.0.4",
+    "version": "0.0.5",
     "publisher": "lakshits11",
     "author": {
         "name": "Lakshit Somani",
@@ -115,6 +115,11 @@
                 "label": "Best Themes - Nairobi",
                 "uiTheme": "vs-dark",
                 "path": "./themes/Best Themes - Nairobi.json"
+            },
+            {
+                "label": "Best Themes - Night Owl Modified",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Best Themes - Night Owl Modified.json"
             },
             {
                 "label": "Best Themes - Ocean Night",
