@@ -4,7 +4,7 @@
 [![Rating](https://vsmarketplacebadge.apphb.com/rating-star/lakshits11.best-themes-redefined.svg?style=for-the-badge&colorA=FFC600&colorB=FF9D00)](https://marketplace.visualstudio.com/items?itemName=lakshits11.best-themes-redefined)
 [![Downloads](https://vsmarketplacebadge.apphb.com/downloads/lakshits11.best-themes-redefined.svg?style=for-the-badge&colorA=88FF00&colorB=00FF00CC)](https://marketplace.visualstudio.com/items?itemName=lakshits11.best-themes-redefined)
 
-**🔥 ULTIMATE COLLECTION OF BEST THEMES CREATED FOR VS CODE 🔥 😎**
+**🔥 THE ULTIMATE COLLECTION OF BEST THEMES CREATED FOR VS CODE 🔥 😎**
 
 ## Installation
 
@@ -23,22 +23,25 @@
 ## Themes Included
 
  1. Best Themes - Dark Phoenix
+ 2. Best Themes - Dark Phoenix 2
  2. Best Themes - Dracula Redefined
  3. Best Themes - Electron
  4. Best Themes - Electron 2
  5. Best Themes - Karma
  6. Best Themes - Material Fresh
  7. Best Themes - Material Fresh No Italics
- 8. Best Themes - Material high Contrast
+ 8. Best Themes - Material High Contrast No Italics
  9. Best Themes - Material Ocean No Italics
  10. Best Themes - Monokai Black
  11. Best Themes - Monokai Drake
+ 12. Best Themes - Monokai Drake No Italics
  12. Best Themes - Monokai Night Theme Italic
  13. Best Themes - Monokai Night Theme No Italic
  14. Best Themes - Monokai No Italics
  15. Best Themes - Monokai Vibrant
  16. Best Themes - Monokai Winter Night
  17. Best Themes - Nairobi
+ 18. Best Themes - Night Owl Modified
  18. Best Themes - Ocean Night
  19. Best Themes - One Dark Extra
  20. Best Themes - One Dark Pro
@@ -63,7 +66,7 @@
     "better-comments.highlightPlainText": true,
     "editor.tabSize": 2,
     "editor.wordWrap": "on",
-    "window.zoomLevel": 1,
+    "window.zoomLevel": -1,
     "editor.cursorBlinking": "smooth",
     "editor.cursorStyle": "line",
     "editor.suggest.shareSuggestSelections": true,
@@ -85,6 +88,8 @@ Start upon that here: https://code.visualstudio.com/docs/getstarted/theme-color-
 
 
 Also file issues [here](https://github.com/lakshits11/best-themes/issues), if you like.
+
+**Note: This pack is still in development so somethings may be off the grid. Report them immediately.**
 
 ## Credits
 
