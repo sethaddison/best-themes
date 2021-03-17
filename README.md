@@ -4,7 +4,11 @@
 [![Rating](https://vsmarketplacebadge.apphb.com/rating-star/lakshits11.best-themes-redefined.svg?style=for-the-badge&colorA=FFC600&colorB=FF9D00)](https://marketplace.visualstudio.com/items?itemName=lakshits11.best-themes-redefined)
 [![Downloads](https://vsmarketplacebadge.apphb.com/downloads/lakshits11.best-themes-redefined.svg?style=for-the-badge&colorA=88FF00&colorB=00FF00CC)](https://marketplace.visualstudio.com/items?itemName=lakshits11.best-themes-redefined)
 
-**🔥 THE ULTIMATE COLLECTION OF BEST THEMES CREATED FOR VS CODE 🔥 😎**
+## **🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥**
+
+## **🔥 THE ULTIMATE COLLECTION OF BEST THEMES CREATED FOR VS CODE  😎**
+
+## **🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥**
 
 ## Installation
 
