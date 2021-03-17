@@ -25,6 +25,7 @@
  1. Best Themes - Dark Phoenix
  2. Best Themes - Dark Phoenix 2
  2. Best Themes - Dracula Redefined
+ 2. Best Themes - Dracula Redefined (No Italics)
  3. Best Themes - Electron
  4. Best Themes - Electron 2
  5. Best Themes - Karma

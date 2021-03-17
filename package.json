@@ -37,6 +37,11 @@
                 "path": "./themes/Best Themes - Dracula Redefined.json"
             },
             {
+                "label": "Best Themes - Dracula Redefined (No Italics)",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Best Themes - Dracula Redefined (No Italics).json"
+            },
+            {
                 "label": "Best Themes - Electron",
                 "uiTheme": "vs-dark",
                 "path": "./themes/Best Themes - Electron.json"
@@ -106,15 +111,10 @@
                 "uiTheme": "vs-dark",
                 "path": "./themes/Best Themes - Monokai Vibrant.json"
             },
-            {
+            {  
                 "label": "Best Themes - Monokai Winter Night",
                 "uiTheme": "vs-dark",
                 "path": "./themes/Best Themes - Monokai Winter Night.json"
-            },
-            {
-                "label": "Best Themes - Nairobi",
-                "uiTheme": "vs-dark",
-                "path": "./themes/Best Themes - Nairobi.json"
             },
             {
                 "label": "Best Themes - Night Owl Modified",
