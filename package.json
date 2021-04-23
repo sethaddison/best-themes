@@ -2,7 +2,7 @@
     "name": "best-themes-redefined",
     "displayName": "Best Themes Redefined",
     "description": "Redefined versions of all the popular themes 🎇✨❤",
-    "version": "0.0.5",
+    "version": "0.0.6",
     "publisher": "lakshits11",
     "author": {
         "name": "Lakshit Somani",
@@ -32,6 +32,11 @@
                 "path": "./themes/Best Themes - Dark Phoenix 2.json"
             },
             {
+                "label": "Best Themes - Default Dark Plus Black",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Best Themes - Default Dark Plus Black.json"
+            },
+            {
                 "label": "Best Themes - Dracula Redefined",
                 "uiTheme": "vs-dark",
                 "path": "./themes/Best Themes - Dracula Redefined.json"
@@ -57,6 +62,11 @@
                 "path": "./themes/Best Themes - Karma.json"
             },
             {
+                "label": "Best Themes - Material Black",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Best Themes - Material Black.json"
+            },
+            {
                 "label": "Best Themes - Material Fresh",
                 "uiTheme": "vs-dark",
                 "path": "./themes/Best Themes - Material Fresh.json"
@@ -77,6 +87,11 @@
                 "path": "./themes/Best Themes - Material Ocean No Italic.json"
             },
             {
+                "label": "Best Themes - Monokai Awesome",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Best Themes - Monokai Awesome.json"
+            },
+            {
                 "label": "Best Themes - Monokai Black",
                 "uiTheme": "vs-dark",
                 "path": "./themes/Best Themes - Monokai Black.json"
@@ -92,7 +107,7 @@
                 "path": "./themes/Best Themes - Monokai Drake No Italics.json"
             },
             {
-                "label": "Best Themes - Monokai Night Time",
+                "label": "Best Themes - Monokai Night Time No Italics",
                 "uiTheme": "vs-dark",
                 "path": "./themes/Best Themes - Monokai Night Time.json"
             },
@@ -125,6 +140,11 @@
                 "label": "Best Themes - Ocean Night",
                 "uiTheme": "vs-dark",
                 "path": "./themes/Best Themes - Ocean Night.json"
+            },
+            {
+                "label": "Best Themes - One Dark Awesome",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Best Themes - One Dark Awesome.json"
             },
             {
                 "label": "Best Themes - One Dark Extra",

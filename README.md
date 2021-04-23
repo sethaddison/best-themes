@@ -10,6 +10,10 @@
 
 ## **🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥**
 
+<br>
+
+# NEW THEMES ADDED 😎
+
 ## Installation
 
 1. Install [Visual Studio Code](https://code.visualstudio.com/)
@@ -28,6 +32,7 @@
 
  1. Best Themes - Dark Phoenix
  2. Best Themes - Dark Phoenix 2
+ 3. Best Themes - Default Dark Plus Black
  2. Best Themes - Dracula Redefined
  2. Best Themes - Dracula Redefined (No Italics)
  3. Best Themes - Electron
@@ -37,6 +42,7 @@
  7. Best Themes - Material Fresh No Italics
  8. Best Themes - Material High Contrast No Italics
  9. Best Themes - Material Ocean No Italics
+ 10. Best Themes - Monokai Awesome
  10. Best Themes - Monokai Black
  11. Best Themes - Monokai Drake
  12. Best Themes - Monokai Drake No Italics
@@ -48,6 +54,7 @@
  17. Best Themes - Nairobi
  18. Best Themes - Night Owl Modified
  18. Best Themes - Ocean Night
+ 19. Best Themes - One Dark Awesome
  19. Best Themes - One Dark Extra
  20. Best Themes - One Dark Pro
  21. Best Themes - One Monokai
