@@ -67,7 +67,9 @@
 
 ```js
 {
-  // I am using a free and open source font called Fira Code which comes with font ligatures and you can easily get it here: https://fonts.google.com/specimen/Fira+Code
+  // I am using a free and open source font called Fira Code which comes with font ligatures and you can easily get it here: https://github.com/tonsky/FiraCode
+  
+  // If you want more ligatured free programming fonts, go to https://github.com/ryanoasis/nerd-fonts
 
     "editor.fontFamily": "'Fira code'",
     "editor.fontLigatures": true,
