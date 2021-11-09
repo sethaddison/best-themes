@@ -105,12 +105,7 @@ Also file issues [here](https://github.com/lakshits11/best-themes/issues), if yo
 
 **Note: This pack is still in development so somethings may be off the grid. Report them immediately.**
 
-## Credits
-
-
-
-I take this opportunity to whole heartedly thank [Sarah Drasner](https://github.com/sdras) whose [blog](https://css-tricks.com/creating-a-vs-code-theme/) helped me to do this. 
-
+## PS
 By the way I am a photographer too. Check out my work [here](https://www.instagram.com/_.pixelated/)
 
 Regards, [Lakshit Somani](https://www.instagram.com/_.pixelated/)
